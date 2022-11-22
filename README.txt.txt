@@ -1,0 +1,2 @@
+Deep Learning Model RNN , LSTM , GRU on Movie reviews dataset and check accuracy.
+ALL Model provide accuracy less than 90, but Bidirectional_GRU and Bidirectional_LSTM Provide accuracy greater than 90. 
